@@ -1,3 +1,13 @@
+Second task for Quze internship.
+
+To start the app, you will need to fork and clone to you machine, and after that enter the files and run npm start. You will maybe need "Moesif" to help you fetch the api.
+
+I used React.js, Semantic ui, Hooks, Axios, High Order Components.
+
+It took me about 2 hours to complete the task.
+
+It is a simple app where user can search for the courses. Here we talk about Elasticsearch. I used Axios to get the data from provided api and send the post request to the api. After use search for the course and click the submit button, he will be provided with a list of cards. Each card hold some info about the course and also a button which will redirect user to the courses web page.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
